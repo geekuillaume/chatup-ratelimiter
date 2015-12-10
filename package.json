@@ -1,0 +1,22 @@
+{
+  "name": "chatup-ratelimiter",
+  "version": "1.0.0",
+  "description": "A Chatup plugin to limit the number of messages a user can send and avoid spamming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekuillaume/chatup-ratelimiter.git"
+  },
+  "author": "Guillaume Besson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekuillaume/chatup-ratelimiter/issues"
+  },
+  "homepage": "https://github.com/geekuillaume/chatup-ratelimiter#readme",
+  "dependencies": {
+    "lodash": "3.10.1"
+  }
+}
